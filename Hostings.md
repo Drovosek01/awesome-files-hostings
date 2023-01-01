@@ -67,7 +67,6 @@ https://drop.download/, https://dropapk.com/
 https://www.edisk.eu/
 https://iosddl.net/
 http://easybytez.com/
-https://www.filecad.com/
 https://www.filefactory.com/
 https://filer.net/
 https://filerio.in/
@@ -77,7 +76,6 @@ https://www.file-upload.net/en/
 https://icerbox.com/
 https://mexa.sh/
 https://novafile.org/
-https://www.sendmyway.com/
 https://sundryfiles.com/
 https://tusfiles.com/
 https://ufile.io/, https://uploadfiles.io/
@@ -132,7 +130,6 @@ https://file.al/
 https://expirebox.com/
 https://1cloudfile.com/
 https://www.uploadcloud.pro/
-http://linkz.ge/
 https://dbree.org/
 https://rapidshare.io/
 https://dropmb.com/
@@ -168,10 +165,8 @@ https://uploadify.net/
 https://www.plustransfer.com/
 https://file1.uafile.com/
 https://megafile.io/
-https://www.sendfiles.net/
 https://androidfilehost.com/
 https://hotlink.cc/
-http://wipfiles.net/
 https://www.sendspace.com/
 https://top4top.io/
 http://files.dp.ua/
@@ -179,48 +174,53 @@ https://shareplace.org/
 https://filemoon.sx/
 
 ### С поощрением за скачивание добавленных на сервис файлов:
-https://uploadrar.com/
-https://clicknupload.cc/ | http://clicknupload.me/
-https://dailyuploads.net/
-https://dfiles.eu/
-https://douploads.net/ | https://douploads.com/
-https://dropgalaxy.com/
-https://fboom.me/
-https://www.filenext.com/
-https://filescdn.com/
-https://www.file-upload.com/
-https://gigapeta.com/
-https://katfile.com/
-https://k2s.cc/
-https://nitroflare.com/
-https://rapidgator.net/
-https://www.restfilee.com/
-https://send.cm/
-https://sharemods.com/
-https://turbobit.net/
-https://hitfile.net/
-https://uploaded.net/
-https://uploadboy.com/ | https://uploadboy.me/
-https://uploadbuzz.cc/
-https://uploadgig.com/
-https://userupload.net/
-https://alfafile.net/
-https://www.kshared.com/
-https://upload4earn.org/
-https://oxy.cloud/ | https://oxy.st/en/
-https://uploady.io/
-https://www.indishare.org/
-http://bezsms.org/
-https://www.cloudghost.net/
+Ссылки |
+--- |
+https://uploadrar.com/ |
+https://clicknupload.cc/, http://clicknupload.me/
+https://dailyuploads.net/ |
+https://dfiles.eu/ |
+https://douploads.net/, https://douploads.com/
+https://dropgalaxy.com/ |
+https://fboom.me/ |
+https://www.filenext.com/ |
+https://filescdn.com/ |
+https://www.file-upload.com/ |
+https://gigapeta.com/ |
+https://katfile.com/ |
+https://k2s.cc/ |
+https://nitroflare.com/ |
+https://rapidgator.net/ |
+https://www.restfilee.com/ |
+https://send.cm/ |
+https://sharemods.com/ |
+https://turbobit.net/ |
+https://hitfile.net/ |
+https://uploaded.net/ |
+https://uploadboy.com/, https://uploadboy.me/
+https://uploadbuzz.cc/ |
+https://uploadgig.com/ |
+https://userupload.net/ |
+https://alfafile.net/ |
+https://www.kshared.com/ |
+https://upload4earn.org/ |
+https://oxy.cloud/, https://oxy.st/en/
+https://uploady.io/ |
+https://www.indishare.org/ |
+http://bezsms.org/ |
+https://www.cloudghost.net/ |
 
 
 ## Объяснение заголовков в таблице
 
+// TODO
 
 ## Правила добавления сервисов в список
 
+// TODO
 
 ## Мертвые сервисы
+
 - http://vip-file.com
 - https://letitbit.net/
 - http://www.unibytes.com/
@@ -296,6 +296,11 @@ https://www.cloudghost.net/
 - https://bdupload.asia/
 - https://anonymousfiles.io/
 - http://packupload.com/
+- https://www.filecad.com/
+- https://www.sendmyway.com/
+- http://linkz.ge/
+- https://www.sendfiles.net/
+- https://wipfiles.net/
 
 ## TODO
 
