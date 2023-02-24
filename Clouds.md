@@ -23,13 +23,14 @@ https://www.4shared.com/
 https://hostr.co/
 https://www.terabox.com/
 https://www.sync.com/
+https://icedrive.net/
 
 https://cloudup.com/
 
 http://pan.baidu.com/
 https://yunpan.360.cn/
 https://www.weiyun.com/
-
+https://dowsfile.com/
 
 
 
@@ -51,7 +52,9 @@ https://personal.asuswebstorage.com/?lang=ru
 https://fileaxa.com/
 https://www.fshare.vn/
 https://download.ru/
-
+https://www.feijipan.com/
+https://disk.karelia.pro/
+https://filebit.net/
 
 
 
@@ -89,7 +92,7 @@ http://www.howfile.com/
 http://www.qiannao.com/
 http://ozibox.com/
 https://disk.megafon.ru/
-
+https://piyomod.com/
 
 
 Остальное:

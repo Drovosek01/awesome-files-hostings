@@ -148,10 +148,8 @@ https://filespace.com/
 https://myfiles.onl/
 https://www.directupload.net/
 https://subyshare.com/
-https://www.upload-4ever.com/
 https://www.extmatrix.com/
 https://dwnlodit.com/
-https://upload.ac/
 https://filebin.ca/
 https://uploadbox.io/
 http://www.ortofiles.com/
@@ -172,11 +170,29 @@ https://top4top.io/
 http://files.dp.ua/
 https://shareplace.org/
 https://filemoon.sx/
+https://filecat.net/
+https://rapidrar.cr/
+https://securesha.re/
+https://www.gulf-up.com/
+https://share.devadara.com/
+https://www.sendgb.com/
+https://upl.io/
+https://failiem.lv/
+https://www.swisstransfer.com/en-us
+https://bowfile.com/
+https://www.myairbridge.com/
+https://megabig.net/
+https://cyberfile.me/
+https://bunkr.su/
+https://mediafile.cc/
+https://transfiles.ru/
+https://doodrive.com/
 
 ### С поощрением за скачивание добавленных на сервис файлов:
 Ссылки |
 --- |
 https://uploadrar.com/ |
+https://veryfiles.com/ |
 https://clicknupload.cc/, http://clicknupload.me/
 https://dailyuploads.net/ |
 https://dfiles.eu/ |
@@ -209,7 +225,22 @@ https://uploady.io/ |
 https://www.indishare.org/ |
 http://bezsms.org/ |
 https://www.cloudghost.net/ |
+https://sama-share.com/ |
+https://www.gulf-up.com/ |
+https://upload.ac/ |
+https://onuploads.com/ |
+https://www.upload-4ever.com/ |
 
+### Потоковая передача файлов
+https://justbeamit.com/
+
+### Без бесплатного плана
+https://1dl.net/
+https://www.uploadship.com/
+https://www.cloudghost.net/
+
+### Сервисы которые работают не во всех странах
+https://files.dp.ua/
 
 ## Объяснение заголовков в таблице
 
@@ -301,6 +332,11 @@ https://www.cloudghost.net/ |
 - http://linkz.ge/
 - https://www.sendfiles.net/
 - https://wipfiles.net/
+- https://cdn-mac.com/
+- http://bytesbox.com/
+- https://fileleaks.com/
+- https://fileresources.net/
+- https://xenupload.com/
 
 ## TODO
 
