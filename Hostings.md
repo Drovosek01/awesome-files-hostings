@@ -101,6 +101,7 @@ https://takefile.link/
 https://wupfile.com/
 https://filesmonster.com/
 https://blackhole.run/
+https://wormhole.app/
 https://plik.ovh/#/
 https://plik.vulpecula.fr/#/
 https://www.swisstransfer.com/en-us
@@ -191,6 +192,7 @@ https://seyarabata.com/
 https://modsfire.com/
 https://uploadhaven.com/
 https://hot4share.com/
+https://grafixdrive.com/
 
 ### С поощрением за скачивание добавленных на сервис файлов:
 Ссылки |
@@ -236,6 +238,9 @@ https://onuploads.com/ |
 https://www.upload-4ever.com/ |
 https://rapidcloud.cc/ |
 https://fikper.com/ |
+https://filerice.com/ |
+https://publishers.dlupload.com/ |
+
 
 ### Потоковая передача файлов
 https://justbeamit.com/
@@ -344,16 +349,21 @@ https://files.dp.ua/
 - https://fileleaks.com/
 - https://fileresources.net/
 - https://xenupload.com/
+- http://jumbofiles.com/
+- https://chedrives.com/
 
 ## TODO
 
 
 
 Подтвержденные MSJ:
-https://1fichier.com/ | https://cjoint.net/
+Ссылки |
+--- |
+https://1fichier.com/, https://cjoint.net/
 https://www.2shared.com/
-https://anonfiles.com/ | https://anonfile.com/
+https://anonfiles.com/, https://anonfile.com/
 https://bayfiles.com/
+https://zippysha.re/
 https://filechan.org/
 https://myfile.is/
 https://megaupload.nz/
