@@ -193,6 +193,7 @@ https://modsfire.com/
 https://uploadhaven.com/
 https://hot4share.com/
 https://grafixdrive.com/
+https://ezvn.net/
 
 ### С поощрением за скачивание добавленных на сервис файлов:
 Ссылки |
@@ -263,8 +264,9 @@ https://files.dp.ua/
 
 ## Мертвые сервисы
 
-- https://zippyshare.com
-- http://vip-file.com
+- https://zippyshare.com/
+- https://uploadgram.me/
+- http://vip-file.com/
 - https://letitbit.net/
 - http://www.unibytes.com/
 - http://file-space.org/
@@ -281,9 +283,9 @@ https://files.dp.ua/
 - http://unlimitzone.com/
 - http://lumfile.com/
 - https://www.oboom.com/
-- http://up.media1fire.com
-- http://relink.us
-- http://salefiles.com
+- http://up.media1fire.com/
+- http://relink.us/
+- http://salefiles.com/
 - https://ska4ay.com/ | https://ska4ay.su/
 - https://sundryupload.com/
 - http://terafile.co
