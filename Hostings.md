@@ -264,6 +264,24 @@ https://files.dp.ua/
 
 ## Мертвые сервисы
 
+- https://anonfiles.com/, https://anonfile.com/
+- https://bayfiles.com/
+- https://zippysha.re/
+- https://filechan.org/
+- https://myfile.is/
+- https://megaupload.nz/
+- https://share-online.is/
+- https://upload.st/
+- https://file.bz/
+- https://rapidshare.nu/
+- https://openload.cc/
+- https://lolabits.se/
+- https://vshare.is/
+- https://upvid.cc/
+- https://hotfile.io/
+- https://letsupload.cc/
+- https://uplovd.com/
+- https://share.anonleaks.net/
 - https://zippyshare.com/
 - https://uploadgram.me/
 - http://vip-file.com/
@@ -363,24 +381,6 @@ https://files.dp.ua/
 --- |
 https://1fichier.com/, https://cjoint.net/
 https://www.2shared.com/
-https://anonfiles.com/, https://anonfile.com/
-https://bayfiles.com/
-https://zippysha.re/
-https://filechan.org/
-https://myfile.is/
-https://megaupload.nz/
-https://share-online.is/
-https://upload.st/
-https://file.bz/
-https://rapidshare.nu/
-https://openload.cc/
-https://lolabits.se/
-https://vshare.is/
-https://upvid.cc/
-https://hotfile.io/
-https://letsupload.cc/
-https://uplovd.com/
-https://share.anonleaks.net/
 https://ddownload.com/
 https://downace.com/
 https://www.easypaste.org/
