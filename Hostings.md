@@ -194,6 +194,9 @@ https://uploadhaven.com/
 https://hot4share.com/
 https://grafixdrive.com/
 https://ezvn.net/
+https://www.transferxl.com/
+https://magesy.download/
+https://www.xup.in/
 
 ### С поощрением за скачивание добавленных на сервис файлов:
 Ссылки |
