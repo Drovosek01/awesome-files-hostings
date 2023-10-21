@@ -197,6 +197,18 @@ https://ezvn.net/
 https://www.transferxl.com/
 https://magesy.download/
 https://www.xup.in/
+https://qiwi.gg/
+https://fileknot.com/
+https://filego.app/
+https://uguu.se/
+https://catbox.moe/
+https://voltupload.com/
+https://anonymfile.com/
+https://nitrofile.cc/
+https://gofile.cc/
+https://bayfiles.io/
+https://anyfile.co/
+
 
 ### С поощрением за скачивание добавленных на сервис файлов:
 Ссылки |
@@ -211,7 +223,7 @@ https://dropgalaxy.com/ |
 https://fboom.me/ |
 https://www.filenext.com/ |
 https://filescdn.com/ |
-https://www.file-upload.com/ |
+https://www.file-upload.com/, https://www.file-upload.org/ |
 https://gigapeta.com/ |
 https://katfile.com/ |
 https://k2s.cc/ |
@@ -374,6 +386,7 @@ https://files.dp.ua/
 - https://xenupload.com/
 - http://jumbofiles.com/
 - https://chedrives.com/
+- http://minfil.org/, http://minfil.com/
 
 ## TODO
 
@@ -401,7 +414,7 @@ https://letsupload.io/
 https://megaup.net/
 https://mixdrop.co/
 https://oshi.at/
-https://pixeldrain.com/
+https://pixeldrain.com/, https://pixeldra.in/
 https://racaty.net/
 https://rghost.net/
 https://www.solidfiles.com/
