@@ -208,6 +208,8 @@ https://nitrofile.cc/
 https://gofile.cc/
 https://bayfiles.io/
 https://anyfile.co/
+http://share.bashtel.ru/
+https://darkibox.com/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
@@ -395,7 +397,7 @@ https://files.dp.ua/
 Подтвержденные MSJ:
 Ссылки |
 --- |
-https://1fichier.com/, https://cjoint.net/
+https://1fichier.com/, https://cjoint.net/, https://megadl.fr/, https://mesfichiers.org/
 https://www.2shared.com/
 https://ddownload.com/
 https://downace.com/

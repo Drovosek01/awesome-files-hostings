@@ -55,6 +55,7 @@ https://download.ru/
 https://www.feijipan.com/
 https://disk.karelia.pro/
 https://filebit.net/
+https://internxt.com/
 
 
 
