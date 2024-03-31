@@ -1,4 +1,6 @@
 Облака:
+Ссылки | Другое
+--- | ----
 https://drive.google.com/
 https://www.mediafire.com/
 https://mega.co.nz/
@@ -25,9 +27,7 @@ https://www.terabox.com/
 https://www.sync.com/
 https://icedrive.net/
 https://www.fireload.com/
-
 https://cloudup.com/
-
 http://pan.baidu.com/
 https://yunpan.360.cn/
 https://www.weiyun.com/
@@ -39,6 +39,8 @@ https://dowsfile.com/
 
 
 Проверить:
+Ссылки | Другое
+--- | ----
 https://degoo.com/
 https://hubic.com/
 http://www.mimedia.com/index.html
@@ -62,6 +64,8 @@ https://internxt.com/
 
 
 Облака без бесплатного плана:
+Ссылки | Другое
+--- | ----
 https://mcs.mail.ru/storage/
 https://www.justcloud.com/
 https://www.cloudme.com/en
@@ -83,6 +87,8 @@ https://www.carbonite.com/
 
 
 Мертвые облака:
+Ссылки | Другое
+--- | ----
 https://owndrive.com/
 https://www.idrive.com/
 https://firedrop.com/
@@ -99,6 +105,6 @@ https://surdoc.com/
 
 
 Остальное:
-http://forum.ru-board.com/topic.cgi?forum=5&topic=35708&start=0
-http://forum.ru-board.com/topic.cgi?forum=5&topic=49053&start=0
-https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services
+- http://forum.ru-board.com/topic.cgi?forum=5&topic=35708&start=0
+- http://forum.ru-board.com/topic.cgi?forum=5&topic=49053&start=0
+- https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services
