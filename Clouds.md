@@ -24,6 +24,7 @@ https://hostr.co/
 https://www.terabox.com/
 https://www.sync.com/
 https://icedrive.net/
+https://www.fireload.com/
 
 https://cloudup.com/
 

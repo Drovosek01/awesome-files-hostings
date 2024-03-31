@@ -258,6 +258,7 @@ https://rapidcloud.cc/ |
 https://fikper.com/ |
 https://filerice.com/ |
 https://publishers.dlupload.com/ |
+https://bestfile.io/en |
 
 
 ### Потоковая передача файлов
