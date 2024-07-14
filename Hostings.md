@@ -210,6 +210,10 @@ https://bayfiles.io/
 https://anyfile.co/
 http://share.bashtel.ru/
 https://darkibox.com/
+https://uploadnow.io/
+https://buzzheavier.com/, https://trashbytes.net/, https://flashbang.sh/
+https://fileknot.io/
+https://zippyshare.day/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
@@ -233,6 +237,7 @@ https://nitroflare.com/ |
 https://rapidgator.net/ |
 https://www.restfilee.com/ |
 https://send.cm/ |
+https://media.cm/ |
 https://sharemods.com/ |
 https://turbobit.net/ |
 https://hitfile.net/ |
@@ -259,6 +264,13 @@ https://fikper.com/ |
 https://filerice.com/ |
 https://publishers.dlupload.com/ |
 https://bestfile.io/en |
+https://oneupload.to/ |
+https://hexload.com/ |
+https://mega4upload.com/ |
+https://www.up-4ever.net/ |
+https://upfiles.com/ |
+https://freedl.ink/ |
+
 
 
 ### Потоковая передача файлов
@@ -483,6 +495,7 @@ https://github.com/
 https://vk.com/
 https://bitbucket.org/
 https://gitlab.com/
+https://genlink.xyz/
 
 
 Облака:
