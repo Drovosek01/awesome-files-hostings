@@ -214,6 +214,9 @@ https://uploadnow.io/
 https://buzzheavier.com/, https://trashbytes.net/, https://flashbang.sh/
 https://fileknot.io/
 https://zippyshare.day/
+https://fastupload.io/
+https://zippyfiles.co/
+https://gofile.to/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
