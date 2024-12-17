@@ -217,6 +217,7 @@ https://zippyshare.day/
 https://fastupload.io/
 https://zippyfiles.co/
 https://gofile.to/
+https://hellabyte.one/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
