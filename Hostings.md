@@ -204,6 +204,10 @@ https://uguu.se/
 https://catbox.moe/
 https://voltupload.com/
 https://anonymfile.com/
+https://sharefile.co/
+https://modsbase.com/
+https://fileport.io/
+https://vikingfile.com/
 https://nitrofile.cc/
 https://gofile.cc/
 https://bayfiles.io/
@@ -218,6 +222,7 @@ https://fastupload.io/
 https://zippyfiles.co/
 https://gofile.to/
 https://hellabyte.one/
+https://www.transfernow.net/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
