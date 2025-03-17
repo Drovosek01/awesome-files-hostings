@@ -225,6 +225,7 @@ https://hellabyte.one/
 https://www.transfernow.net/
 http://2bay.org/
 https://limewire.com/
+https://ranoz.gg/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
