@@ -223,6 +223,8 @@ https://zippyfiles.co/
 https://gofile.to/
 https://hellabyte.one/
 https://www.transfernow.net/
+http://2bay.org/
+https://limewire.com/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
@@ -279,6 +281,7 @@ https://mega4upload.com/ |
 https://www.up-4ever.net/ |
 https://upfiles.com/ |
 https://freedl.ink/ |
+https://filespayouts.com/ |
 
 
 
