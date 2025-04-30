@@ -226,6 +226,9 @@ https://www.transfernow.net/
 http://2bay.org/
 https://limewire.com/
 https://ranoz.gg/
+https://1file.su/
+https://2share.su/
+https://file.com.ru/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
