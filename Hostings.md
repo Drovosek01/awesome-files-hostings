@@ -229,6 +229,7 @@ https://ranoz.gg/
 https://1file.su/
 https://2share.su/
 https://file.com.ru/
+https://transfer.it/
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
@@ -299,6 +300,9 @@ https://www.cloudghost.net/
 
 ### Сервисы которые работают не во всех странах
 https://files.dp.ua/
+
+### Сервисы без SSL/https
+http://5t.ru/
 
 ## Объяснение заголовков в таблице
 
