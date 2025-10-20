@@ -203,7 +203,7 @@ https://filego.app/
 https://uguu.se/
 https://catbox.moe/
 https://voltupload.com/
-https://anonymfile.com/
+https://anonymfile.com/, https://filefa.st/
 https://sharefile.co/
 https://modsbase.com/
 https://fileport.io/
@@ -230,6 +230,9 @@ https://1file.su/
 https://2share.su/
 https://file.com.ru/
 https://transfer.it/
+https://qu.ax/
+https://vexfile.com/
+
 
 
 ### С поощрением за скачивание добавленных на сервис файлов:
@@ -287,6 +290,7 @@ https://www.up-4ever.net/ |
 https://upfiles.com/ |
 https://freedl.ink/ |
 https://filespayouts.com/ |
+https://devuploads.com/ |
 
 
 
