@@ -59,39 +59,28 @@ https://uploadrar.com/ | - | - | - | 1 | 0.00001 МБ | + | 12 сек | 30 ГБ 
 https://chedrives.com/ |
 http://wdfiles.ru/ | Multi | + | - | 120 | 3 ГБ | + | 5 сек | unlim | + | + | Multi | + | - | - | 240 | 4 ГБ | + | 3 сек | unlim | + | 160 ГБ | + | + | - | + | + | - | + | + | - | - | - | - | ? | - | + | + | -
 https://wdho.ru/
-https://ausfile.com/
-https://asmfile.com/
 https://down.mdiaload.com/
 https://down.fast-down.com/
 https://drop.download/, https://dropapk.com/
 https://www.edisk.eu/
 https://iosddl.net/
-http://easybytez.com/
 https://www.filefactory.com/
 https://filer.net/
-https://filerio.in/
 https://www.filespace.com/
 https://filetransfer.io/
 https://www.file-upload.net/en/
 https://icerbox.com/
 https://mexa.sh/
 https://novafile.org/
-https://sundryfiles.com/
-https://tusfiles.com/
 https://ufile.io/, https://uploadfiles.io/
 https://uloz.to/
 https://ulozto.net/
 http://chomikuj.pl/
-https://uploading.vn/
 https://upstore.net/
-https://userscloud.com/
 https://usersdrive.com/
 http://zofile.com/
 https://worldbytez.com/
-https://my-files.su/
 https://filejoker.net/
-https://uptobox.com/
-https://wushare.com/
 https://jumploads.com/
 https://prefiles.com/
 https://rapidrar.com/
@@ -99,9 +88,7 @@ https://www.extmatrix.com/
 https://tezfiles.com/
 https://ubiqfile.com/
 https://takefile.link/
-https://wupfile.com/
 https://filesmonster.com/
-https://blackhole.run/
 https://wormhole.app/
 https://plik.ovh/#/
 https://plik.vulpecula.fr/#/
@@ -115,18 +102,11 @@ https://hexupload.net/
 https://dropmefiles.com/
 https://dropmeafile.com/
 https://filecloud.me/
-https://fileconvoy.com/
 http://file.karelia.ru/
-https://www.load.to/
-https://nippyspace.com/
 http://sendfile.su/
 https://yourfilestore.com/
-https://zalil.su/
-https://fastclick.to/
-https://mixloads.com/
 https://download.gg/
-https://up-load.io/ 
-http://uppit.com/
+https://up-load.io/
 https://file.al/
 https://expirebox.com/
 https://1cloudfile.com/
@@ -256,7 +236,7 @@ https://k2s.cc/ |
 https://nitroflare.com/ |
 https://rapidgator.net/ |
 https://www.restfilee.com/ |
-https://send.cm/ |
+https://send.cm/, https://tusfiles.com/, https://userscloud.com/, https://send.now/ |
 https://media.cm/ |
 https://sharemods.com/ |
 https://turbobit.net/ |
@@ -432,6 +412,26 @@ http://5t.ru/
 - http://jumbofiles.com/
 - https://chedrives.com/
 - http://minfil.org/, http://minfil.com/
+- https://ausfile.com/
+- https://asmfile.com/
+- http://easybytez.com/
+- https://filerio.in/
+- https://sundryfiles.com/
+- https://uploading.vn/
+- https://wushare.com/
+- https://my-files.su/
+- https://uptobox.com/
+- https://wupfile.com/
+- https://blackhole.run/
+- https://fileconvoy.com/
+- https://www.load.to/
+- https://nippyspace.com/
+- https://zalil.su/
+- https://fastclick.to/
+- https://mixloads.com/
+- http://uppit.com/
+
+
 
 ## TODO
 
